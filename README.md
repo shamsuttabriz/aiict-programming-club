@@ -1,6 +1,6 @@
 # AIICT Programming Club
 
-This is my university's programming club website, which I created. Through this platform, I teach my junior peers problem-solving, development, and more. I believe both the teachers and students at my university benefit from using this website.
+This is my University's programming club website. I make this website. Here I teach my junior brother on problem-solving, development, and so on using my AIICT Programming club website. I think my university teachers and students will benefit from using my website.
 
 ## Using Technologies:
 
