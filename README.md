@@ -1,8 +1,12 @@
-# React + Vite
+# AIICT Programming Club
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my university's programming club website, which I created. Through this platform, I teach my junior peers problem-solving, development, and more. I believe both the teachers and students at my university benefit from using this website.
 
-Currently, two official plugins are available:
+## Using Technologies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML
+- CSS
+- Javascript
+- Tailwind
+- Daisy UI
+- React
