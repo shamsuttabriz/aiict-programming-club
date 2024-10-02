@@ -1,13 +1,12 @@
-import About from "./components/About";
-import HeroSection from "./components/HeroSection";
-import Navbar from "./components/Navbar";
+import SignUp from "./components/Signup";
 
 function App() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar />
       <HeroSection />
-      <About />
+      <About /> */}
+      <SignUp />
     </>
   );
 }
