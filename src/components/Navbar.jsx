@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <header className="flex w-full h-auto items-center justify-center sticky top-0 inset-x-0 border-b border-divider backdrop-blur-lg z-50 bg-slate-100/10 py-3.5 dark:bg-slate-800/10">
+    <header className="flex w-full h-auto items-center justify-center sticky top-0 inset-x-0 border-b border-divider z-50 bg-slate-100 py-3.5">
       <nav className="w-full lg:w-9/12 px-3 lg:px-0 mx-auto flex justify-between items-center">
         <div className="flex items-center gap-2 lg:gap-4">
           <img
@@ -20,7 +20,7 @@ export default function Navbar() {
           </li>
           <li>
             <a className="text-md font-medium" href="#">
-              Blog
+              Programs
             </a>
           </li>
           <li className="bg-green-600 px-6 py-2 rounded cursor-pointer">
